@@ -1,6 +1,9 @@
 # AugmentedDefenseHardware
 XR Hardware controller designs
 
+Contribute, or ask question on our Discord:
+https://discord.gg/G5Sm5uWZu4
+
 Donations:<BR><BR>
 ETH: 0x1bB749726eCCF6f7D97fcA86f05DB70901CFB04B<BR>
 BTC: 3MaUsBPVbGgYSscypnffqAN82ppLaRDJdz<BR>
