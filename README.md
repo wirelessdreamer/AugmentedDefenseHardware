@@ -1,6 +1,12 @@
 # AugmentedDefenseHardware
 XR Hardware controller designs
 
+Build video:
+https://www.youtube.com/watch?v=YVChGCaUWgg&t=654s
+
+Action video in game:
+https://www.youtube.com/watch?v=4a35RC_xLpg
+
 Contribute, or ask question on our Discord:
 https://discord.gg/G5Sm5uWZu4
 
