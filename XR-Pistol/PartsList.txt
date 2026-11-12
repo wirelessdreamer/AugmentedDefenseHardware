@@ -4,8 +4,8 @@ Parts List
 4 - M3 Nut
 3 - M3 x 30 (Partial smooth shaft if possible)
 2 - M3 x 24 button head
-3 - M3 x 16
-3 - M3 x 20
+2 - M3 x 16
+4 - M3 x 20
 1 - M3 x 50 (partial smooth shaft if possible)
 
 1 - M2 x 20
