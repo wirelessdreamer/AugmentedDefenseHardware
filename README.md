@@ -2,6 +2,8 @@
 
 XR hardware controller designs
 
+Contact me through Discord for information on commercial licensing
+
 ## Videos
 
 ### Build video
